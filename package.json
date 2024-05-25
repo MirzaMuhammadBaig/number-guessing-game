@@ -1,0 +1,19 @@
+{
+  "name": "@blockchain-dev/guessing-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "index.js",
+  "type": "module",
+  "author": "Muhammad",
+  "license": "MIT",
+  "keywords": [
+    "awesome"
+  ],
+  "description": "This is my second project which are deploying on npm",
+  "dependencies": {
+    "readline": "^1.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.6.0"
+  }
+}
